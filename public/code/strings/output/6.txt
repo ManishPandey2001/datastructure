@@ -1,0 +1,2 @@
+Enter a string : hello data structure
+Length of string is : 20

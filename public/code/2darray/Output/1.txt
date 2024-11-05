@@ -1,0 +1,7 @@
+Enter number of rows and column of a matrix 4 2
+Enter elements of 4 rows and 2 column
+2 4 6 8 10 12 24 28
+2      4
+6      8
+10     12
+24     28

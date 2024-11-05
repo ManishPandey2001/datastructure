@@ -1,0 +1,3 @@
+Enter string1 : code hello
+Enter string2 : code world
+Sum of absolute differences of ASCII of strings = 42

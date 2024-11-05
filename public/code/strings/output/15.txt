@@ -1,0 +1,3 @@
+Enter a string : Honestly is a good policy
+Enter value to be searched : is
+Value found at index 9

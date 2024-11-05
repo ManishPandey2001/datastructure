@@ -1,0 +1,8 @@
+Enter size of array : 5
+Enter the elements of array
+Element 0 : 45
+Element 1 : 4
+Element 2 : 2
+Element 3 : 545
+Element 4 : 5
+Elements of given array : 45 4 2 545 5 

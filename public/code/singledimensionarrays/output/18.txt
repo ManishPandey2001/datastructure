@@ -1,0 +1,9 @@
+Enter size of the array : 6
+ENTER ELEMENT 0 : 45
+ENTER ELEMENT 1 : 4
+ENTER ELEMENT 2 : 34
+ENTER ELEMENT 3 : 2
+ENTER ELEMENT 4 : 78
+ENTER ELEMENT 5 : 77
+4 at 1 index is a local minima
+2 at 3 index is a local minima

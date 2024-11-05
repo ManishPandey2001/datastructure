@@ -1,0 +1,2 @@
+Enter string : h ello
+Trimmed string : 'h ello'

@@ -1,0 +1,4 @@
+Enter a string : hello everyone
+Enter a sub string to replace : ll
+Enter replacement string : yy
+String after replacement : heyyo everyone

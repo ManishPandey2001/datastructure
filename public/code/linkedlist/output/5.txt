@@ -1,0 +1,15 @@
+How many elements do you want to add to the list? 3
+Enter string value 1: Hello
+Enter string value 2: World
+Enter string value 3: Test
+Singly Linked List: Hello -> World -> Test -> NULL
+Enter a string to search: World
+Searching for "World": Found
+Deleting at the beginning...
+Singly Linked List: World -> Test -> NULL
+Deleting at the end...
+Singly Linked List: World -> NULL
+Enter position to delete: 0
+Singly Linked List: NULL
+
+

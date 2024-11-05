@@ -1,0 +1,13 @@
+How many elements do you want to add to the list? 3
+Enter value 1: 10
+Enter value 2: 20
+Enter value 3: 30
+Doubly Linked List: 10 <-> 20 <-> 30 <-> NULL
+Enter a value to search: 20
+Searching for 20: Found
+Deleting at the beginning...
+Doubly Linked List: 20 <-> 30 <-> NULL
+Deleting at the end...
+Doubly Linked List: 20 <-> NULL
+Enter position to delete: 0
+Doubly Linked List: NULL

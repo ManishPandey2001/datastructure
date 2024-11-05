@@ -1,0 +1,3 @@
+Enter space separated string : he llo
+String 1 : 'he'
+String 2 : 'llo'

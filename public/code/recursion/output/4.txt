@@ -1,0 +1,2 @@
+Enter a number: 100
+Binary representation of 100 is: 1100100 

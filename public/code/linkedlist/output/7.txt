@@ -1,0 +1,13 @@
+How many elements do you want to add to the list? 3
+Enter string value 1: Hello
+Enter string value 2: World
+Enter string value 3: Test
+Doubly Linked List: Hello <-> World <-> Test <-> NULL
+Enter a string to search: World
+Searching for "World": Found
+Deleting at the beginning...
+Doubly Linked List: World <-> Test <-> NULL
+Deleting at the end...
+Doubly Linked List: World <-> NULL
+Enter position to delete: 0
+Doubly Linked List: NULL

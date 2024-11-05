@@ -1,0 +1,13 @@
+How many elements do you want to add to the list? 3
+Enter string value 1: Hello
+Enter string value 2: World
+Enter string value 3: Test
+Singly Circular Linked List: Hello -> World -> Test -> (head)
+Enter a string to search: World
+Searching for "World": Found
+Deleting at the beginning...
+Singly Circular Linked List: World -> Test -> (head)
+Deleting at the end...
+Singly Circular Linked List: World -> (head)
+Enter position to delete: 0
+Singly Circular Linked List: (head)

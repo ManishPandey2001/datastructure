@@ -1,0 +1,2 @@
+Enter a string : hello programming skills
+You entered : hello programming skills

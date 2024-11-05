@@ -1,0 +1,13 @@
+How many elements do you want to add to the list? 3
+Enter value 1: 10
+Enter value 2: 20
+Enter value 3: 30
+Circular Linked List: 10 -> 20 -> 30 -> (head)
+Enter a value to search: 20
+Searching for 20: Found
+Deleting at the beginning...
+Circular Linked List: 20 -> 30 -> (head)
+Deleting at the end...
+Circular Linked List: 20 -> (head)
+Enter position to delete: 0
+Circular Linked List: (head)

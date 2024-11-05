@@ -1,0 +1,3 @@
+OUTPUT
+  
+The smallest element in the array is: 1

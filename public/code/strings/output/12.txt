@@ -1,0 +1,6 @@
+Enter string : hello
+h
+e
+l
+l
+o

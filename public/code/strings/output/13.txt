@@ -1,0 +1,2 @@
+Enter string : Programming skills
+Reverse of Programming skills is slliks gnimmargorP

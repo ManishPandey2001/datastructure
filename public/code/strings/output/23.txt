@@ -1,0 +1,3 @@
+Enter a string : hello world hello everyone
+Enter sub string to look for : hello
+2

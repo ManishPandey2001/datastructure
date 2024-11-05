@@ -1,0 +1,7 @@
+Enter string (max 100 chars; to end hit enter twice): Data Structure through c 
+
+Number of
+ Words : 4
+ Spaces : 4
+ Characters : 26
+ Lines : 1

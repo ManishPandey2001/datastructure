@@ -1,0 +1,6 @@
+Enter string : abcde
+abcde
+acdea
+aeaae
+aeaea
+aaaaa

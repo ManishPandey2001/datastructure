@@ -1,0 +1,4 @@
+Enter a string : This IS A SeNTance.
+
+Before reversing : This IS A SeNTance.
+After reversing : This is a sentance.

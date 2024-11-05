@@ -1,0 +1,9 @@
+Enter number of terms for first polynomial: 2
+Enter coefficient and exponent (e.g., 3 2 for 3x^2): 3 2
+Enter coefficient and exponent (e.g., 4 1 for 4x^1): 4 1
+Enter number of terms for second polynomial: 2
+Enter coefficient and exponent (e.g., 4 1 for 4x^1): 2 1
+Enter coefficient and exponent (e.g., 4 1 for 4x^1): 5 0
+First Polynomial: 3x^2 + 4x^1 
+Second Polynomial: 2x^1 + 5x^0 
+Resulting Polynomial: 3x^2 + 6x^1 + 5x^0 

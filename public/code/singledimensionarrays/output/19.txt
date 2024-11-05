@@ -1,0 +1,7 @@
+Enter size of the array : 5
+ENTER ELEMENT 0 : 12
+ENTER ELEMENT 1 : 1
+ENTER ELEMENT 2 : 3
+ENTER ELEMENT 3 : 23
+ENTER ELEMENT 4 : 6
+23 at 3 index is a local maxima

@@ -1,0 +1,2 @@
+Enter a number: 5654
+The sum of the digits is: 20 

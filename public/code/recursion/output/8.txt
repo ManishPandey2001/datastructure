@@ -1,0 +1,8 @@
+Enter the number of elements in the array: 5
+Enter 5 elements:
+2
+4
+5
+52
+2222
+The arithmetic mean of the array is: 457.00

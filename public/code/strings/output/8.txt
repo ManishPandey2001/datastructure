@@ -1,0 +1,3 @@
+Enter a string1 : Data Structure
+Enter a string2 : Through c
+Data Structure Through c

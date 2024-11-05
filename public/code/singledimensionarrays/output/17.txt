@@ -1,0 +1,13 @@
+Enter size of array 1: 4
+ENTER ELEMENT 0 : 2
+ENTER ELEMENT 1 : 3
+ENTER ELEMENT 2 : 5
+ENTER ELEMENT 3 : 6
+Enter size of array 2: 4
+ENTER ELEMENT 0 : 5
+ENTER ELEMENT 1 : 6
+ENTER ELEMENT 2 : 7
+ENTER ELEMENT 3 : 8
+Array 1 : 2 3 5 6 
+Array 2 : 5 6 7 8 
+Result : 2 3 5 5 6 6 7 8 

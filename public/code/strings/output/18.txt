@@ -1,0 +1,2 @@
+Enter string non zero string : 2122
+String : 2122

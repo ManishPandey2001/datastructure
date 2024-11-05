@@ -1,0 +1,9 @@
+Enter the size of array : 6
+Enter the elements of array
+Element 0 :123321
+Element 1 :121
+Element 2 :381
+Element 3 :555
+Element 4 :919
+Element 5 :25
+Palindrome numbers in the array : 123321  121  555  919

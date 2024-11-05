@@ -1,0 +1,2 @@
+Enter a string to convert to uppercase : hello data structure!
+Uppercase string: HELLO DATA STRUCTURE!
