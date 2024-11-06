@@ -1,0 +1,3 @@
+Longest valid parentheses length for "((()": 2
+Longest valid parentheses length for ")()())": 4
+Longest valid parentheses length for "()(()))))": 6

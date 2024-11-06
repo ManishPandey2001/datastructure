@@ -1,0 +1,19 @@
+Enter the number of strings (max 100): 5
+Enter 5 strings:
+banana
+apple
+grape
+orange
+kiwi
+Sorted strings:
+apple
+banana
+grape
+kiwi
+orange
+Time taken for sorting: 0.000012 seconds
+
+Quick Sort Complexity:
+Best Case: O(n log n).
+Worst Case: O(n^2) when the pivot is the smallest or largest element repeatedly.
+Average Case: O(n log n).

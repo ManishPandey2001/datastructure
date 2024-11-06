@@ -1,0 +1,73 @@
+Priority Queue Operations Menu:
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter string to insert: Hello
+Enter priority (higher number means higher priority): 5
+Inserted "Hello" with priority 5
+
+Priority Queue Operations Menu:
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter string to insert: World
+Enter priority (higher number means higher priority): 10
+Inserted "World" with priority 10
+
+Priority Queue Operations Menu:
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 3
+Highest priority element is: "World"
+
+Priority Queue Operations Menu:
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 2
+Deleted "World" from the priority queue
+
+Priority Queue Operations Menu:
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 4
+Priority queue is not empty.
+
+Priority Queue Operations Menu:
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 5
+Priority queue is not full (dynamic).
+
+Priority Queue Operations Menu:
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 6
+Exiting...

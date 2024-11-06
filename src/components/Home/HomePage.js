@@ -15,47 +15,47 @@ const data = [
     {
         icon: 'bi-diagram-2',
         title: '2D Array',
-        link: '/2darray' // Add the link for the 2D Array page
+        link: '/2darray' 
     },
     {
         icon: 'bi-graph-up',
         title: 'Graph',
-        link: '/graph'
+        link: '/Graphs'
     },
     {
         icon: 'bi-link-45deg',
         title: 'Linked List',
-        link: '/linkedlist'
+        link: '/Linkedlist'
     },
     {
         icon: 'bi-queue',
         title: 'Queues',
-        link: '/queues'
+        link: '/Queues'
     },
     {
         icon: 'bi-arrow-repeat',
         title: 'Recursion',
-        link: '/recursion'
+        link: '/Recursion'
     },
     {
         icon: 'bi-search',
         title: 'Searching Algorithms',
-        link: '/searchingalgorithms'
+        link: '/Searchingalgorithms'
     },
     {
         icon: 'bi-text-paragraph',
         title: 'Strings',
-        link: '/strings'
+        link: '/Strings'
     },
     {
         icon: 'bi-stack',
         title: 'Stacks',
-        link: '/stacks'
+        link: '/Stack'
     },
     {
         icon: 'bi-tree',
         title: 'Trees',
-        link: '/trees'
+        link: '/Trees'
     },
     {
         icon: 'bi-diagram-3',
@@ -65,7 +65,7 @@ const data = [
     {
         icon: 'bi-sort-numeric-down',
         title: 'Sorting Algorithms',
-        link: '/sortingAlgorithms'
+        link: '/SortingAlgorithms'
     },
     {
         icon: 'bi-person-circle',
@@ -84,9 +84,8 @@ const HomePage = () => {
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="ms-auto">
-                            <Nav.Link href="#home">Home</Nav.Link>
+                            <Nav.Link href="/">Home</Nav.Link>
                             <Nav.Link href="/AboutUs">About</Nav.Link>
-                            <Nav.Link href="#contact">Contact</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>
@@ -134,10 +133,10 @@ const HomePage = () => {
                         <Col key={index}>
                             <Card className="feature-card text-center">
                                 <Card.Body>
-                                    <i className={`bi ${section.icon} feature-icon`}></i>
+                                    {/* <i className={`bi ${section.icon} feature-icon`}></i> */}
                                     {section.link ? (
-                                        <Link to={section.link}>
-                                            <Card.Title>{section.title}</Card.Title>
+                                        <Link to={`${section.link}`}>
+                                            <Card.Title >{section.title}</Card.Title>
                                         </Link>
                                     ) : (
                                         <Card.Title>{section.title}</Card.Title>

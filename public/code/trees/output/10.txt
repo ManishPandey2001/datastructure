@@ -1,0 +1,16 @@
+1. Insert
+2. Check for Dead End
+3. Exit
+Enter your choice: 1
+Enter value to insert: 10
+
+Enter your choice: 1
+Enter value to insert: 5
+
+Enter your choice: 1
+Enter value to insert: 15
+
+Enter your choice: 2
+The BST does not contain a dead end.
+
+Enter your choice: 3

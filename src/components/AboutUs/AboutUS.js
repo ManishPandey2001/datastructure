@@ -4,9 +4,9 @@ import "./AboutUs.css"; // Reuse the HomePage CSS for consistency
 
 const AboutUs = () => {
   const team = [
-    { name: "Bhawna", description: "Co-creator with expertise in XYZ." },
-    { name: "Hema", description: "Co-creator focused on ABC." },
-    { name: "Manish", description: "Co-creator specializing in data structures and algorithms." }
+    { name: "Bhavna", description: "4104/23" },
+    { name: "Hema", description: "4021/23" },
+    { name: "Sandhya", description: "4043/23" }
   ];
 
   return (

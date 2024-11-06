@@ -1,0 +1,3 @@
+Enter the number of nodes in the binary search tree: 5
+Enter the postorder traversal: 3 7 5 15 10
+Constructed Binary Search Tree (Postorder Traversal): 3 7 5 15 10

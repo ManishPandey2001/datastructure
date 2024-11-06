@@ -1,0 +1,7 @@
+Enter the number of nodes: 7
+Enter postorder traversal:
+4 5 2 6 7 3 1
+Enter inorder traversal:
+4 2 5 1 6 3 7
+In-order traversal of the constructed tree:
+4 2 5 1 6 3 7

@@ -1,0 +1,4 @@
+Original Queue: 5 3 1 2 3 4 5 
+Queue after reversing first 3 elements: 3 1 5 2 3 4 5 
+Original Queue: 4 4 4 3 2 1 
+Queue after reversing first 4 elements: 3 4 4 4 2 1 

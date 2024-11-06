@@ -1,0 +1,45 @@
+1. Insert
+2. Delete
+3. Search
+4. Preorder Traversal
+5. Inorder Traversal
+6. Postorder Traversal
+7. Minimum Element
+8. Exit
+Enter your choice: 1
+Enter value to insert: 10
+
+Enter your choice: 1
+Enter value to insert: 5
+
+Enter your choice: 1
+Enter value to insert: 15
+
+Enter your choice: 4
+Preorder Traversal: 10 5 15 
+
+Enter your choice: 5
+Inorder Traversal: 5 10 15 
+
+Enter your choice: 6
+Postorder Traversal: 5 15 10 
+
+Enter your choice: 7
+Minimum element: 5
+
+Enter your choice: 2
+Enter value to delete: 15
+15 deleted from the tree.
+
+Enter your choice: 5
+Inorder Traversal: 5 10 
+
+Enter your choice: 3
+Enter value to search: 5
+Searching for 5: Found
+
+Enter your choice: 8
+                
+            
+
+

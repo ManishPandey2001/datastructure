@@ -1,0 +1,16 @@
+Enter the number of strings (max 100): 3
+            Enter 3 strings:
+            banana
+            apple
+            cherry
+            Sorted strings:
+            apple
+            banana
+            cherry
+            Time taken for sorting: 0.000123 seconds
+            
+            Insertion Sort Complexity:
+            Best Case: O(n) when the array is already sorted.
+            Worst Case: O(n^2) when the array is sorted in reverse order.
+            Average Case: O(n^2).
+                  

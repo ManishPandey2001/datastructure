@@ -1,0 +1,2 @@
+First non-repeating characters for stream1: a -1 b b 
+First non-repeating characters for stream2: a -1 c 

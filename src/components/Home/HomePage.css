@@ -34,4 +34,27 @@
   .navbar .contact-info {
     font-size: 0.9rem;
   }
-  
+  /* Remove link color and underline for feature titles */
+.feature-card .card-title {
+  color: #090000; /* Set to desired color, e.g., white */
+  text-decoration: none;
+  font-size: 1.2rem; /* Adjust font size as needed */
+  font-weight: bold;
+}
+
+/* Optional: Modify icon colors if needed */
+.feature-card .feature-icon {
+  color: #ffffff; /* Set icon color to match your theme */
+  font-size: 2rem;
+  text-decoration: none; /* Adjust size for visual balance */
+}
+
+/* General styling for cards */
+.feature-card {
+  background-color: #005f4b; /* Match background theme color */
+  border: none; /* Remove any card border if it appears */
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  text-decoration: none;
+}

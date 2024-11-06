@@ -1,0 +1,125 @@
+Priority Queue Operations Menu:
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter string to insert: Apple
+"Apple" inserted into the priority queue.
+
+Priority Queue Operations Menu:
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter string to insert: Orange
+"Orange" inserted into the priority queue.
+
+Priority Queue Operations Menu:
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter string to insert: Banana
+"Banana" inserted into the priority queue.
+
+Priority Queue Operations Menu:
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter string to insert: Grape
+"Grape" inserted into the priority queue.
+
+Priority Queue Operations Menu:
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter string to insert: Watermelon
+"Watermelon" inserted into the priority queue.
+
+Priority Queue Operations Menu:
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter string to insert: Kiwi
+Priority Queue is full! Cannot insert "Kiwi".
+
+Priority Queue Operations Menu:
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 3
+Highest priority element is: "Apple"
+
+Priority Queue Operations Menu:
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 2
+"Apple" deleted from the priority queue.
+
+Priority Queue Operations Menu:
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 3
+Highest priority element is: "Banana"
+
+Priority Queue Operations Menu:
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 4
+Priority Queue is not empty.
+
+Priority Queue Operations Menu:
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 5
+Priority Queue is not full.
+
+Priority Queue Operations Menu:
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 6
+Exiting...

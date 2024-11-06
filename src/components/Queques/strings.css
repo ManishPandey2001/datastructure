@@ -1,0 +1,34 @@
+.code-card {
+    border-radius: 8px;
+    background-color: #e2f0ec; /* Match the feature card background */
+    padding: 1rem;
+}
+
+.code-card pre {
+    background: #1c7a75; /* Match the hero section background */
+    padding: 10px;
+    border-radius: 5px;
+    color: #fff; /* Light text on dark background */
+    overflow-x: auto;
+    max-height: 250px;
+}
+
+.code-card .card-title {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #333; /* Match the header color */
+}
+
+.code-card .btn {
+    min-width: 120px;
+    /* You can customize the button's color and background to match your theme */
+    background-color: #1c7a75; /* Match the hero section background */
+    color: #fff; /* Light text on dark background */
+}
+
+h2 {
+    font-weight: bold;
+}
+body {
+    background-color: #1c7a75; /* Match the hero-section background color */
+}

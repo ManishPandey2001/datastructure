@@ -1,0 +1,39 @@
+Menu:
+1. Insert a node
+2. Level Order Traversal
+3. Exit
+Enter your choice: 1
+Enter value to insert: 34
+Inserted 34 into the binary tree.
+
+Menu:
+1. Insert a node
+2. Level Order Traversal
+3. Exit
+Enter your choice: 1
+Enter value to insert: 23
+Inserted 23 into the binary tree.
+
+Menu:
+1. Insert a node
+2. Level Order Traversal
+3. Exit
+Enter your choice: 1
+Enter value to insert: 56
+Inserted 56 into the binary tree.
+
+Menu:
+1. Insert a node
+2. Level Order Traversal
+3. Exit
+Enter your choice: 2
+Level Order Traversal:
+34 23 56 
+
+Menu:
+1. Insert a node
+2. Level Order Traversal
+3. Exit
+Enter your choice: 3
+Exiting...
+

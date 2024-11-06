@@ -1,0 +1,11 @@
+Size of list (max size 100) : 7
+2 <- 1
+ 4 <- 2
+ 4 -> 8
+ 8 -> 5
+ 5 -> 3
+ 3 -> 6
+ Binary Tree InOrder : 4 8 5 3 6 
+Binary Tree PreOrder : 1 2 4 8 5 3 6 
+
+=== Code Execution Successful ===

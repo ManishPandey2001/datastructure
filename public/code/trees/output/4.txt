@@ -1,0 +1,10 @@
+Enter the number of nodes: 7
+Enter node value: 4
+Enter node value: 2
+Enter node value: 6
+Enter node value: 1
+Enter node value: 3
+Enter node value: 5
+Enter node value: 7
+Right view of the binary tree:
+4 6 7

@@ -1,0 +1,121 @@
+Double-Ended Queue Operations Menu:
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Peek Front
+6. Peek Rear
+7. Check if Empty
+8. Check if Full
+9. Exit
+Enter your choice: 1
+Enter string to insert at front: Hello
+"Hello" inserted at the front of the deque.
+
+Double-Ended Queue Operations Menu:
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Peek Front
+6. Peek Rear
+7. Check if Empty
+8. Check if Full
+9. Exit
+Enter your choice: 2
+Enter string to insert at rear: World
+"World" inserted at the rear of the deque.
+
+Double-Ended Queue Operations Menu:
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Peek Front
+6. Peek Rear
+7. Check if Empty
+8. Check if Full
+9. Exit
+Enter your choice: 1
+Enter string to insert at front: Goodbye
+"Goodbye" inserted at the front of the deque.
+
+Double-Ended Queue Operations Menu:
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Peek Front
+6. Peek Rear
+7. Check if Empty
+8. Check if Full
+9. Exit
+Enter your choice: 5
+Front element is: "Goodbye"
+
+Double-Ended Queue Operations Menu:
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Peek Front
+6. Peek Rear
+7. Check if Empty
+8. Check if Full
+9. Exit
+Enter your choice: 6
+Rear element is: "World"
+
+Double-Ended Queue Operations Menu:
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Peek Front
+6. Peek Rear
+7. Check if Empty
+8. Check if Full
+9. Exit
+Enter your choice: 3
+"Goodbye" deleted from the front of the deque.
+
+Double-Ended Queue Operations Menu:
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Peek Front
+6. Peek Rear
+7. Check if Empty
+8. Check if Full
+9. Exit
+Enter your choice: 4
+"World" deleted from the rear of the deque.
+
+Double-Ended Queue Operations Menu:
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Peek Front
+6. Peek Rear
+7. Check if Empty
+8. Check if Full
+9. Exit
+Enter your choice: 7
+Deque is empty.
+
+Double-Ended Queue Operations Menu:
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Peek Front
+6. Peek Rear
+7. Check if Empty
+8. Check if Full
+9. Exit
+Enter your choice: 9
+Exiting...
+
+

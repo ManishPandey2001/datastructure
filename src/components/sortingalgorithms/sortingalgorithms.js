@@ -2,32 +2,22 @@ import React, { useEffect, useState } from "react";
 import hljs from "highlight.js/lib/core";
 import cLang from "highlight.js/lib/languages/c";
 import "highlight.js/styles/vs2015.css"; 
-import "./linkedList.css";
-import { Container, Card, Button, Row, Col, } from "react-bootstrap";
+import "./sortingalgorithms.css";
+import { Container, Card, Button, Row, Col } from "react-bootstrap";
 
 hljs.registerLanguage("c", cLang);
 
-const LinkedList = () => {
+const Sortingalgorithms = () => {
     const [codes, setCodes] = useState([]);
     const codeTitles = [
-        "1. Implement the operations of single linked list storing integer values (insert at begin,insert at pos,insert at end,delete at begin,delete at end, delete at pos, isempty, isfull, display, search)",
-        "2. Implement the operations of single linked list storing integer values (insert at begin,insert at pos,insert at end,delete at begin,delete at end, delete at pos, isempty, isfull, display, search)",
-        "3. Implement the operations of single linked list storing integer values (insert at begin,insert at pos,insert at end,delete at begin,delete at end, delete at pos, isempty, isfull, display, search)",
-        "4. Implement the operations of doubly circular linked list storing integer values (insert at begin,insert at pos,insert at end,delete at begin,delete at end, delete at pos, isempty, isfull, display, search)",
-        "5. Implement the operations of single linked list storing string values (insert at begin,insert at pos,insert at end,delete at begin,delete at end, delete at pos, isempty, isfull, display, search)",
-        "6. Implement the operations of single circular linked list storing string values (insert at begin,insert at pos,insert at end,delete at begin,delete at end, delete at pos, isempty, isfull, display, search)",
-        "7. Implement the operations of doubly linked list storing string values (insert at begin,insert at pos,insert at end,delete at begin,delete at end, delete at pos, isempty, isfull, display, search)",
-        "8. Implement the operations of doubly circular linked list storing string values (insert at begin,insert at pos,insert at end,delete at begin,delete at end, delete at pos, isempty, isfull, display, search)",
-        "9. Enter the 2 polynomial equations dynamically, add them and display the answer.",
-        "10. Enter the 2 polynomial equations dynamically, subtract them and display the answer.",
-        "11. Enter the 2 polynomial equations dynamically, multiply them and display the answer."
+       "",
     ];
 
     useEffect(() => {
         const fetchCodes = async () => {
             const loadedCodes = await Promise.all(
-                Array.from({ length: 11 }, async (_, i) => {
-                    const response = await fetch(`/code/linkedlist/${i + 1}.c`);
+                Array.from({ length: 20 }, async (_, i) => {
+                    const response = await fetch(`/code/SORTINGALGORITHMS/${i + 1}.c`);
                     const text = await response.text();
                     return text;
                 })
@@ -59,9 +49,8 @@ const LinkedList = () => {
     };
 
     return (
-        <>
         <Container className="my-5">
-            <h2 className="text-center mb-4">Linked List Operations</h2>
+            <h2 className="text-center mb-4">sorting Algorithms Operations</h2>
             <Row xs={1} md={2} lg={2} className="g-4">
                 {codes.map((code, index) => (
                     <Col key={index}>
@@ -87,9 +76,7 @@ const LinkedList = () => {
                 ))}
             </Row>
         </Container>
-        </>
-        
     );
 };
 
-export default LinkedList;
+export default Sortingalgorithms;

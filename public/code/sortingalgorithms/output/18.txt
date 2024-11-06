@@ -1,0 +1,15 @@
+Enter the number of strings (max 100): 3
+            Enter 3 strings:
+            banana
+            apple
+            cherry
+            Sorted strings:
+            apple
+            banana
+            cherry
+            Time taken for sorting: 0.000123 seconds
+            
+            Merge Sort Complexity:
+            Best Case: O(n log n).
+            Worst Case: O(n log n).
+            Average Case: O(n log n).

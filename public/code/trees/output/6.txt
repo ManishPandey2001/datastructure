@@ -1,0 +1,7 @@
+Enter the number of nodes: 5
+Enter node value: 3
+Enter node value: 1
+Enter node value: 4
+Enter node value: 2
+Enter node value: 5
+Maximum depth of the binary tree: 3

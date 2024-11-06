@@ -1,0 +1,2 @@
+First circular tour can start at index: 1
+First circular tour can start at index: 2

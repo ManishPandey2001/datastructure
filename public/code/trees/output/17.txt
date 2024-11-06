@@ -1,0 +1,19 @@
+Create a strictly binary tree:
+Enter data for node (-1 to stop): 10
+Creating left child of 10:
+Enter data for node (-1 to stop): 5
+Creating left child of 5:
+Enter data for node (-1 to stop): -1
+Creating right child of 5:
+Enter data for node (-1 to stop): 7
+Creating left child of 7:
+Enter data for node (-1 to stop): -1
+Creating right child of 7:
+Enter data for node (-1 to stop): -1
+Creating right child of 10:
+Enter data for node (-1 to stop): 15
+Creating left child of 15:
+Enter data for node (-1 to stop): -1
+Creating right child of 15:
+Enter data for node (-1 to stop): -1
+Inorder Traversal of the constructed tree: 5 10 7 15

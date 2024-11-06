@@ -1,0 +1,20 @@
+Enter number of vertices: 4
+Enter number of edges: 4
+Enter edge (source destination): 0 1
+Enter edge (source destination): 0 2
+Enter edge (source destination): 1 2
+Enter edge (source destination): 2 3
+
+Adjacency List Representation:
+Vertex 0: 2 -> 1 -> NULL
+Vertex 1: 2 -> NULL
+Vertex 2: 3 -> 1 -> NULL
+Vertex 3: NULL
+
+Enter edge to delete (source destination): 0 1
+
+Adjacency List after deletion:
+Vertex 0: 2 -> NULL
+Vertex 1: 2 -> NULL
+Vertex 2: 3 -> NULL
+Vertex 3: NULL
