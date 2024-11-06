@@ -1,8 +1,6 @@
 import React from "react";
 import {
     Container,
-    Navbar,
-    Nav,
     Button,
     Row,
     Col,
@@ -20,7 +18,7 @@ const data = [
     {
         icon: 'bi-graph-up',
         title: 'Graph',
-        link: '/Graphs'
+        link: '/Graph'
     },
     {
         icon: 'bi-link-45deg',
@@ -30,7 +28,7 @@ const data = [
     {
         icon: 'bi-queue',
         title: 'Queues',
-        link: '/Queues'
+        link: '/Queque'
     },
     {
         icon: 'bi-arrow-repeat',
@@ -45,7 +43,7 @@ const data = [
     {
         icon: 'bi-text-paragraph',
         title: 'Strings',
-        link: '/Strings'
+        link: '/String'
     },
     {
         icon: 'bi-stack',
@@ -55,12 +53,12 @@ const data = [
     {
         icon: 'bi-tree',
         title: 'Trees',
-        link: '/Trees'
+        link: '/Tree'
     },
     {
         icon: 'bi-diagram-3',
         title: 'Single Dimension Array',
-        link: '/SingleDimensionArrays'
+        link: '/SingleDimensionArray'
     },
     {
         icon: 'bi-sort-numeric-down',
@@ -77,20 +75,6 @@ const data = [
 const HomePage = () => {
     return (
         <>
-            {/* Navigation Bar */}
-            <Navbar bg="success" variant="dark" expand="lg" className="py-3">
-                <Container>
-                    <Navbar.Brand href="#home">DataStructure</Navbar.Brand>
-                    <Navbar.Toggle aria-controls="basic-navbar-nav" />
-                    <Navbar.Collapse id="basic-navbar-nav">
-                        <Nav className="ms-auto">
-                            <Nav.Link href="/">Home</Nav.Link>
-                            <Nav.Link href="/AboutUs">About</Nav.Link>
-                        </Nav>
-                    </Navbar.Collapse>
-                </Container>
-            </Navbar>
-
             {/* Hero Section */}
             <Container fluid className="hero-section text-light text-center">
                 <Container>
@@ -133,9 +117,9 @@ const HomePage = () => {
                         <Col key={index}>
                             <Card className="feature-card text-center">
                                 <Card.Body>
-                                    {/* <i className={`bi ${section.icon} feature-icon`}></i> */}
+                                    { <i className={`bi ${section.icon} feature-icon`}></i> }
                                     {section.link ? (
-                                        <Link to={`${section.link}`}>
+                                        <Link to={section.link}>
                                             <Card.Title >{section.title}</Card.Title>
                                         </Link>
                                     ) : (

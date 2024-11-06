@@ -10,20 +10,13 @@ hljs.registerLanguage("c", cLang);
 const Stack1 = () => {
     const [codes, setCodes] = useState([]);
     const codeTitles = [
-       "1. CALCULATE FACTORIAL OF A NUMBER USING RECURSION",
-       "2. CALCULATE FIBONACCI OF A NUMBER USING RECURSION",
-       "3. CALCULATE THE SUM OF NATURAL NUMBERS TILL 10 USING RECURSION.",
-       "4. CONVERT A NUMBER INTO BINARY USING RECURSION",
-       "5. FIND THE LARGEST ELEMENT IN THE INTEGER ARRAY USING RECURSION",
-       "6. FIND THE SMALLEST ELEMENT IN THE INTEGER ARRAY USING RECURSION.",
-       "7. ENTER THE NUMBER FROM THE USER AND ADD ALL DIGITS OF THE NUMBER USING RECURSION.",
-       "8. FIND THE ARITHMETIC MEAN OF AN INTEGER ARRAY USING RECURSION."
+       "",
     ];
 
     useEffect(() => {
         const fetchCodes = async () => {
             const loadedCodes = await Promise.all(
-                Array.from({ length: 13 }, async (_, i) => {
+                Array.from({ length: 12 }, async (_, i) => {
                     const response = await fetch(`/code/stack/${i + 1}.c`);
                     const text = await response.text();
                     return text;

@@ -1,6 +1,6 @@
 import React from "react";
-import { Container, Navbar, Row, Col, Card } from "react-bootstrap";
-import "./AboutUs.css"; // Reuse the HomePage CSS for consistency
+import { Container, Row, Col, Card } from "react-bootstrap";
+import "./AboutUs.css"; 
 
 const AboutUs = () => {
   const team = [
@@ -11,16 +11,6 @@ const AboutUs = () => {
 
   return (
     <>
-      {/* Navigation Bar */}
-      <Navbar bg="success" variant="dark" expand="lg" className="py-3">
-        <Container>
-          <Navbar.Brand href="#home">DataStructure</Navbar.Brand>
-          <Navbar.Toggle aria-controls="basic-navbar-nav" />
-          <Navbar.Collapse id="basic-navbar-nav">
-          </Navbar.Collapse>
-        </Container>
-      </Navbar>
-
       {/* About Us Section */}
       <Container fluid className="hero-section text-light text-center">
         <Container>
