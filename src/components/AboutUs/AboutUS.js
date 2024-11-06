@@ -29,7 +29,7 @@ const AboutUs = () => {
           {team.map((member, index) => (
             <Col key={index}>
               <Card className="feature-card text-center">
-                <Card.Body>
+                <Card.Body className="feature-link">
                   <Card.Title>{member.name}</Card.Title>
                   <Card.Text>{member.description}</Card.Text>
                 </Card.Body>

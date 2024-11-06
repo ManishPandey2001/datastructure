@@ -119,9 +119,9 @@ const HomePage = () => {
                                 <Card.Body>
                                     { <i className={`bi ${section.icon} feature-icon`}></i> }
                                     {section.link ? (
-                                        <Link to={section.link}>
-                                            <Card.Title >{section.title}</Card.Title>
-                                        </Link>
+                                        <Link to={section.link} className="feature-link">
+                                        <Card.Title>{section.title}</Card.Title>
+                                    </Link>
                                     ) : (
                                         <Card.Title>{section.title}</Card.Title>
                                     )}
