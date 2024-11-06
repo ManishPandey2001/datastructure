@@ -17,7 +17,7 @@ const Sortingalgorithms = () => {
         const fetchCodes = async () => {
             const loadedCodes = await Promise.all(
                 Array.from({ length: 20 }, async (_, i) => {
-                    const response = await fetch(`/code/SORTINGALGORITHMS/${i + 1}.c`);
+                    const response = await fetch(`/code/sortingalgorithms/${i + 1}.c`);
                     const text = await response.text();
                     return text;
                 })
