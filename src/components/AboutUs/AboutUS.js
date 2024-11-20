@@ -4,9 +4,9 @@ import "./AboutUs.css";
 
 const AboutUs = () => {
   const team = [
-    { name: "Bhavna", description: "4104/23" },
-    { name: "Hema", description: "4021/23" },
-    { name: "Sandhya", description: "4043/23" }
+    { name: "", description: "" },
+    { name: "Manish Pandey", description: "I am a skilled Backend Developer with over 1.5 years of experience in building and maintaining scalable backend systems and APIs. My expertise includes working with technologies like Node.js, NestJS, Sequelize, and TypeScript, alongside React for dynamic frontend development.I have hands-on experience migrating microservices, optimizing database performance, and deploying applications using AWS and Vercel. My projects include creating robust APIs, working on machine learning solutions with Azure ML Studio, and developing a responsive React portfolio application.I excel in problem-solving, team collaboration, and delivering efficient, high-quality code. With certifications in advanced backend development and a passion for continuous learning, I am well-equipped to contribute to both backend and full-stack projects." },
+    { name: "", description: "" }
   ];
 
   return (
